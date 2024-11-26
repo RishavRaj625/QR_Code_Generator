@@ -1,5 +1,3 @@
- // scripts.js
-
         document.getElementById('generateBtn').addEventListener('click', generateQRCode);
 
         function generateQRCode() {
